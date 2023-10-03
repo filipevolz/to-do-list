@@ -1,0 +1,7 @@
+.taskContent {
+    background-color: var(--gray-400);
+    color: var(--gray-100);
+    width: 100%;
+    height: 72px;
+    border-radius: 8px;
+}
